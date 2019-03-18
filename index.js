@@ -1,1 +1,3 @@
-first
+<script>
+    alert("hello world!")!
+</script>
