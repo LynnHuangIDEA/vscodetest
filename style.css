@@ -1,0 +1,17 @@
+.learn-source{
+    height: 100px;
+    background: url("./gg.jpg")
+}
+
+
+.learn-title-big{
+    color: white;
+    font-size: 24px;  
+    padding: 13px 0 0 26px;
+}
+
+.learn-title-small{
+    color: white;
+    font-size: 14px;
+    padding: 6px 26px 0 26px;
+}

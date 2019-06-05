@@ -1,3 +1,4 @@
-<script>
-    alert("hello world!")!
-</script>
+
+function nice(){
+    alert("hello world!");
+}

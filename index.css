@@ -1,3 +1,28 @@
-#nar{
-    background-color:rgb(105, 34, 185);
+bodu.p{
+    margin: 0;
+    padding: 0;    
+
+}
+body{
+     background: #f1f1f1;
+    
+}
+
+a{
+    text-decoration: none;
+}
+
+/*.cf:after{
+    content: '';
+    display: block;
+    clear: both;
+}*/
+
+.b{
+    font-weight: bold;
+}
+
+.w-1000{
+    width: 800px;
+    margin: auto;
 }
